@@ -1,0 +1,10 @@
+{
+  "name": "Openlists",
+  "version": "1.0.0",
+  "description": "🛡️ A collaborative blacklist/whitelist generator for use within Pi-hole, DNScrypt, Energized, etc",
+  "main": "index.js",
+  "repository": "https://github.com/DRSDavidSoft/Openlists.git",
+  "author": "David Refoua <David@Refoua.me>",
+  "license": "MIT",
+  "private": true
+}
